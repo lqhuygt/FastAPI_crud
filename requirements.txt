@@ -1,0 +1,8 @@
+Uvicorn
+fastapi
+sqlalchemy
+passlib
+bcrypt
+python-jose
+python-multipart
+uvicorn src.main:app --reload
